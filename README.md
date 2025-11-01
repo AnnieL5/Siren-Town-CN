@@ -4,4 +4,9 @@ Story created refrencing Pot Fish Chili(壶鱼辣椒)'s novel "I Became a God in
 
 Some conversation content are AI generated. Images form Google and Weibo.
 
+### Updates
+Oct. 31, 2025 
+- Chinese version creates apart from the original English version
+- Update to chapter twenty three
+
 ## Enjoy! Thanks for checking it out!
