@@ -27,7 +27,7 @@ Oct. 31, 2025
 
 #### Quick note
 
-Some conversation content are AI generated. Images form Google and Weibo.
+Some images are AI generated. Images form Google and Weibo.
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
