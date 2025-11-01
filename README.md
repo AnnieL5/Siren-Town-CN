@@ -1,7 +1,13 @@
 # Welcome!
 
+
+“我没有夏天。” “我只是……偷偷地共享了你的夏天。”
+
+
 ### What your project is/does (and what it's called)
 The project is called Siren Town, story created referencing Pot Fish Chili(壶鱼辣椒)'s novel "I Became a God in a Horror Game" (我在惊悚游戏里封神).
+
+This is the Chinese version of the previous submission Siren Town with improved graphics and more chapters.
 
 ### Why you made your project
 I truly loved this story, and since it is an adventure horror story, it would look great with a different format like a visual novel where player's decision lead to different endings. Thus, I recreated this story using Renpy. 
@@ -34,3 +40,7 @@ Some images are AI generated. Images form Google and Weibo.
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 ## Enjoy! Thanks for checking it out!
+
+“下次见了，塔维尔。” “塔维尔， 我很喜欢你。”
+
+“下次见， 白柳。”
